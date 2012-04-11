@@ -1,3 +1,4 @@
+</div><!--Close Main-->
  <footer>
 	<div id="f_main" class="wrap">		
 		<span class="col_220 cbre"><img src="img/cbre.png" alt="CBRE" /></span>

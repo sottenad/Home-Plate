@@ -84,8 +84,10 @@ sup { top: -0.5em; }
 sub { bottom: -0.25em; }
 
 h2{font-family: 'Stint Ultra Expanded', georgia, serif; font-size: 34px; margin-bottom:14px; font-weight: 100}
-h4{font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; font-weight: normal; text-transform: uppercase; color:#444d3e; margin-top:10px;}
-p{font-family:'Lato', helvetica, arial, sans-serif; font-size: 13px; line-height: 20px}
+h3{font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; font-weight: normal; text-transform: uppercase; color:#444d3e; margin-top:10px;}
+h4{font-family: 'Lato', helvetica, arial, sans-serif; font-size: 14px; font-weight: normal; text-transform: uppercase; color:#444d3e; letter-spacing: 0.25em; margin-bottom: 0.25em;}
+h5{font-family: 'Lato', helvetica, arial, sans-serif; font-size: 14px; font-weight: normal; text-transform: uppercase; color:#8b9b92;}
+p{font-family:'Lato', helvetica, arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom:1.5em;}
 
 /* =============================================================================
    Lists
@@ -248,7 +250,7 @@ margin-top:-32767px;/* thank you Erik J - negate effect of float*/
 #wrap {width:100%}
 
 /*Wraps*/
-.wrap {width:960px;margin:0 auto;padding:0 10px 0 10px}
+.wrap {width:940px;margin:0 auto;padding:0 10px 0 10px}
 
 /* Content Area */
 #main {width:960px;margin:0 auto;clear:both;padding-right:10px;padding-left:10px}
@@ -297,20 +299,40 @@ font-family: 'Lato', arial, sans-serif;
 
 
 #h_main{background:#e4dbc9; position: relative; }
-h1{background:url(../img/logo.png) no-repeat 40px 30px; float: right; height:60px; width:260px; padding:30px 40px; text-indent: -999em; overflow: hidden;display: block;}
+h1{float: right;}
+h1 a{background:url(../img/logo.png) no-repeat 40px 30px;  height:60px; width:260px; padding:30px 40px; text-indent: -999em; overflow: hidden;display: block;}
 #h_callout{background:url(../img/bug.png) no-repeat; height:106px; width:266px; position: absolute; top:0; left:30px; display: block; text-indent: -999em; overflow: hidden}
 
-nav{color:#fff; font-family: 'questrial', helvetica, sans-serif; font-size: 15px; background:#7f8e91; padding-left:60px;}
-nav ul{margin:auto; text-align: center}
-nav li{float:left; letter-spacing: 0.3em}
-nav a{padding:13px 23px; color:#fff;text-transform: uppercase; text-decoration: none; display: block; }
-nav a:hover{color:#fff;}
+nav.main{color:#fff; font-family: 'questrial', helvetica, sans-serif; font-size: 15px; background:#7f8e91; padding-left:60px;}
+nav.main ul{margin:auto; text-align: center}
+nav.main li{float:left; letter-spacing: 0.3em}
+nav.main a{padding:13px 23px; color:#fff;text-transform: uppercase; text-decoration: none; display: block; }
+nav.main a:hover{color:#fff;}
+nav.main .current{background:#5a6668;}
 
-#content{background: #ece6dd}
+#content{background: #ece6dd; margin-bottom:45px;}
+.mainrow{ padding:60px 0;}
 
-#h_callouts{padding:70px 0 55px 0;}
+
 #h_callouts .l_col{width:460px; padding:0 65px 50px 50px; float:left; border-right:1px solid #887963}
 #h_callouts .r_col{width:304px; padding:0 50px 0 30px; float:left;}
+
+.maincol{float:left; width:510px; padding:0 35px;}
+
+/*Sidenav*/
+nav.subnav{width:130px; padding:0 30px; float:left; border-right:1px solid #887963; font-weight: 300;}
+nav.subnav ul{margin-top:0; padding:0; position: relative; top:-3px;}
+nav.subnav a{color:#444d3e; text-decoration: none; font-family: 'lato', helvetica, arial, sans-serif; font-size: 14px; line-height: 25px; padding:0 0 12px 0; }
+nav.subnav .current{color:#df7a1c;}
+nav.subnav li ul{margin-left:25px; font-style: italic;}
+
+aside{width:140px; float:left; padding:0 20px 0 25px; overflow: hidden;  border-left:1px solid #887963; color:#444d3e;}
+aside a{color:#444d3e; text-decoration: underline; font-family: 'lato', helvetica, arial, sans-serif; font-size: 11px;}
+aside a.selected{color:#df7a1c;}
+aside dl, aside dt, aside dd{margin:0; font-size:11px;}
+aside dl{margin-top:25px;}
+aside dd{margin-bottom:16px;}
+/*Nested Sidenav*/
 
 
 
@@ -319,12 +341,15 @@ footer #f_main{ height:90px; padding-top:30px}
 footer #f_sub{background:#e4dbc9; height:25px; color:#444d3e; font-size: 9px;}
 footer #f_sub a{color:#444d3e; padding-left: 10px; font-size: 9px;}
 footer .col_220{width:200px; padding:25px 8px 5px 12px; float:left}
-footer .col_190{width:160px; padding:10px 8px 5px 12px; float:left; border-left:1px solid white}
+footer .col_190{width:150px; padding:10px 8px 5px 12px; float:left; border-left:1px solid white}
 
 .fr{float:right}
 .fl{float:left}
 
 .home_gallery{width:960px; height: 400px;}
+
+
+
 
 .nivoSlider {
     position:relative;
@@ -381,7 +406,21 @@ footer .col_190{width:160px; padding:10px 8px 5px 12px; float:left; border-left:
 .clearfix:after { clear: both; }
 .clearfix { *zoom: 1; }
 
-
+/*Nivo Slider*/
+.nivoSlider{position:relative}
+.nivoSlider img{position:absolute; top:0px; left:0px}
+.nivoSlider a.nivo-imageLink{position:absolute; top:0px; left:0px; width:100%; height:100%; border:0; padding:0; margin:0; z-index:6; display:none}
+.nivo-slice{display:block; position:absolute; z-index:5; height:100%}
+.nivo-box{display:block; position:absolute; z-index:5}
+.nivo-caption{position:absolute; left:0px; bottom:0px; background:#000; color:#fff; opacity:0.8; width:100%; z-index:8}
+.nivo-caption p{padding:5px; margin:0}
+.nivo-caption a{display:inline !important}
+.nivo-html-caption{ display:none}
+.nivo-directionNav a{position:absolute; top:45%; z-index:9; cursor:pointer}
+.nivo-prevNav{left:0px}
+.nivo-nextNav{right:0px}
+.nivo-controlNav a{position:relative; z-index:9; cursor:pointer}
+.nivo-controlNav a.active{font-weight:bold}
 
 /* ==|== print styles =======================================================
    Print styles.
