@@ -51,7 +51,7 @@
 		<nav class="clearfix main">
 			<ul>
 				<li><a href="location.php" <?php if($section == "location"){echo 'class="current"';} ?>>The Location</a></li>
-				<li><a href="#" <?php if($section == "building") echo 'class="current"' ?>>The Building</a></li>
+				<li><a href="design.php" <?php if($section == "building") echo 'class="current"' ?>>The Building</a></li>
 				<li><a href="#" <?php if($section == "spaces") echo 'class="current"' ?>>The Spaces</a></li>
 				<li><a href="#" <?php if($section == "gallery") echo 'class="current"' ?>>Gallery</a></li>
 				<li><a href="#" <?php if($section == "news")echo 'class="current"' ?>>News</a></li>

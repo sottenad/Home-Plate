@@ -332,9 +332,20 @@ aside a.selected{color:#df7a1c;}
 aside dl, aside dt, aside dd{margin:0; font-size:11px;}
 aside dl{margin-top:25px;}
 aside dd{margin-bottom:16px;}
-/*Nested Sidenav*/
+aside p{font-size: 11px; line-height: 15px; margin-top: 12px;}
+aside ul{margin-left:10px; padding:0;  font-size: 11px;}
+aside li{margin-bottom:12px;}
+
+/*Table Styles*/
+.maincol table{font-size:12px;}
+.maincol table th{background:#fccb8b; text-align: left; padding:6px;}
+.maincol table tr{border-top:1px dotted #a19482; border-bottom:1px dotted #a19482; padding:8px 0;}
+.maincol table td{padding: 8px 0;}
+.maincol table .col1{width:160px; padding-right:20px;}
 
 
+section.extended{width:630px; padding:0 30px; float:left;}
+section.extended h2{font-size: 18px; line-height: 26px;}
 
 footer, footer a{font-family: 'lato', helvetica, arial, sans-serif; color:white; font-size: 12px; text-decoration: none; line-height: 19px;}
 footer #f_main{ height:90px; padding-top:30px}
@@ -345,6 +356,7 @@ footer .col_190{width:150px; padding:10px 8px 5px 12px; float:left; border-left:
 
 .fr{float:right}
 .fl{float:left}
+hr{margin:30px 0 20px;}
 
 .home_gallery{width:960px; height: 400px;}
 
