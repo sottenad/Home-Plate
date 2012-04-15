@@ -324,7 +324,7 @@ nav.subnav{width:130px; padding:0 30px; float:left; border-right:1px solid #8879
 nav.subnav ul{margin-top:0; padding:0; position: relative; top:-3px;}
 nav.subnav a{color:#444d3e; text-decoration: none; font-family: 'lato', helvetica, arial, sans-serif; font-size: 14px; line-height: 25px; padding:0 0 12px 0; }
 nav.subnav .current{color:#df7a1c;}
-nav.subnav li ul{margin-left:25px; font-style: italic;}
+nav.subnav li ul{margin-left:25px; margin-top:5px; font-style: italic;}
 
 aside{width:140px; float:left; padding:0 20px 0 25px; overflow: hidden;  border-left:1px solid #887963; color:#444d3e;}
 aside a{color:#444d3e; text-decoration: underline; font-family: 'lato', helvetica, arial, sans-serif; font-size: 11px;}
@@ -343,9 +343,14 @@ aside li{margin-bottom:12px;}
 .maincol table td{padding: 8px 0;}
 .maincol table .col1{width:160px; padding-right:20px;}
 
+.gal{margin:0 30px 30px 0; float:left; width:215px;}
+.gal.last{margin-right:0;}
+.gal img{margin-bottom:15px;}
+.gal span{color:#444d3e; font-size: 10px; font-family: 'lato', helvetica, arial, sans-serif; text-transform: uppercase; display: block; text-align: center; }
 
-section.extended{width:630px; padding:0 30px; float:left;}
-section.extended h2{font-size: 18px; line-height: 26px;}
+section.extended{width:705px; padding:0 30px; float:left;}
+section.extended h2{font-family: 'Stint Ultra Expanded', georgia, serif; font-size: 34px; margin-bottom:0px; margin-top:0; padding:0; font-weight: 100; color:#444d3e;}
+section.extended h3{font-size: 18px; line-height: 26px;}
 
 footer, footer a{font-family: 'lato', helvetica, arial, sans-serif; color:white; font-size: 12px; text-decoration: none; line-height: 19px;}
 footer #f_main{ height:90px; padding-top:30px}
@@ -360,8 +365,13 @@ hr{margin:30px 0 20px;}
 
 .home_gallery{width:960px; height: 400px;}
 
-
-
+.floorplate-info{margin-bottom:50px; color:#fff; text-transform: uppercase; text-align: center; font-family: 'lato', helvetica, arial, sans-serif; font-size: 10px; background:url(../img/floor-info.jpg) no-repeat top right; height:50px; width:719px; padding:10px 0 10px 20px;}
+.floorplate-info span{float:left; display: block; width:105px; border-right:1px solid #fff;}
+.floorplate-info .last{border-right:0;}
+.floorplate-info .first{width:135px;}
+.floorplate-info .fptitle{width:160px; border-right: none; text-align: left; font-size: 13px; line-height: 18px;}
+.floorplate-info strong{display: block; font-size: 24px; font-weight: normal; text-transform: lowercase; padding-top:5px; letter-spacing: 0.12em;}
+.floorplate-info .pdf{background:url(../img/pdf.png) no-repeat top center; height: 32px; width: 30px; display: block;  margin:auto; text-indent: -999em; overflow: hidden}
 
 .nivoSlider {
     position:relative;
