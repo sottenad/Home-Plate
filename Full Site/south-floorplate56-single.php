@@ -26,8 +26,8 @@
 	</section>
 	<div class="clear"></div>
 	</div><!--End Mainrow-->
-	
-</div><!--End #content-->
+	</div><!--End #content-->
+</div><!--End #wrap-->
 
   
  <?php include('inc/footer.php'); ?>
