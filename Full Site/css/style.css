@@ -87,6 +87,7 @@ h2{font-family: 'Stint Ultra Expanded', georgia, serif; font-size: 34px; margin-
 h3{font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; font-weight: normal; text-transform: uppercase; color:#444d3e; margin-top:10px;}
 h4{font-family: 'Lato', helvetica, arial, sans-serif; font-size: 14px; font-weight: normal; text-transform: uppercase; color:#444d3e; letter-spacing: 0.25em; margin-bottom: 0.25em;}
 h5{font-family: 'Lato', helvetica, arial, sans-serif; font-size: 14px; font-weight: normal; text-transform: uppercase; color:#8b9b92;}
+h6{font-family: 'Stint Ultra Expanded', georgia, serif; font-size: 18px; margin-bottom:14px; font-weight: 100}
 p{font-family:'Lato', helvetica, arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom:1.5em;}
 
 /* =============================================================================
@@ -343,6 +344,7 @@ aside li{margin-bottom:12px;}
 .maincol table td{padding: 8px 0;}
 .maincol table .col1{width:160px; padding-right:20px;}
 
+
 .gal{margin:0 30px 30px 0; float:left; width:215px;}
 .gal.last{margin-right:0;}
 .gal img{margin-bottom:15px;}
@@ -384,7 +386,7 @@ hr{margin:30px 0 20px;}
 .borderrow{font-size:12px;}
 .borderrow tr{border-top:1px dotted #aea291; }
 .borderrow tr.last{border-bottom:1px dotted #aea291;}
-.borderrow tr{padding:5px 5px 5px 0;}
+.borderrow td{padding:10px 5px 10px 0;}
 .borderrow a{color:#444d3e}
 
 .nivoSlider {

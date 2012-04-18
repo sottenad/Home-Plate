@@ -10,7 +10,7 @@
 	
 	<div id="f_sub">
 		<div class="wrap">
-			<span class="fl">&copy;2012 American Life, Inc. All rights reserved. <a href="#">Disclaimer</a></span>
+			<span class="fl">&copy;2012 American Life, Inc. All rights reserved. <a href="disclaimer.php">Disclaimer</a></span>
 			<span class="fr">site designed by effective design studio.</span>
 		</div>
 	</div>

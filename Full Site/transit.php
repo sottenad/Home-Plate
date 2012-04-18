@@ -14,7 +14,7 @@
 	<section class="extended col clearfix">
 		<img src="img/transit-map.jpg" alt="Transit Map" />
 		<hr />
-		<h2>Seattle's Regional Transit Hub is in close proximity to Home Plate Center providing superior transit with a multi-modal hub for its tenants. </h2>
+		<h6>Seattle's Regional Transit Hub is in close proximity to Home Plate Center providing superior transit with a multi-modal hub for its tenants. </h6>
 	</section>
 	<div class="clear"></div>
 	</div><!--End Mainrow-->

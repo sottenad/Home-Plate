@@ -15,12 +15,12 @@
 	<?php include('inc/sidebar-news.php'); ?>
 	
 	<section class="extended col clearfix">
-		<h2>Media &amp; Press Releases</h2>
+		<h2>Project Team</h2>
 		
 		<table class="borderrow">
 			<tr>
 				<td width="160">Developer/Owner</td>
-				<td><a href="#">American Life</a></td>
+				<td><a href="http://www.amlife.us">American Life</a></td>
 			</tr>	
 			<tr>
 				<td>General Contractor</td>
@@ -28,11 +28,11 @@
 			</tr>
 			<tr>
 				<td>Interiors</td>
-				<td><a href="#">Degen &amp; Degen</a></td>
+				<td><a href="http://www.ddseattle.com/">Degen &amp; Degen</a></td>
 			</tr>
 			<tr>
 				<td>Architect</td>
-				<td><a href="#">Freiheit &amp; Ho Architects, Inc.</a></td>
+				<td><a href="http://www.fhoarch.com/">Freiheit &amp; Ho Architects, Inc.</a></td>
 			</tr>
 			<tr>
 				<td>Engineers</td>

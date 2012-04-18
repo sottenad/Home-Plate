@@ -44,7 +44,7 @@
 	  	</div>
 		<div id="h_main" class="clearfix">
 			<?php if( isset($section) && $section == 'home') echo'<div id="h_callout">Grand Opening April 12 2012</div>'; ?>
-			<h1><a href="/homeplate">Home Plate Center</a></h1>
+			<h1><a href="/clients/americanlife">Home Plate Center</a></h1>
 		</div>
 		<div class="clear"></div>
 		<nav class="clearfix main">
@@ -52,7 +52,7 @@
 				<li><a href="location.php" <?php if($section == "location"){echo 'class="current"';} ?>>The Location</a></li>
 				<li><a href="design.php" <?php if($section == "building") echo 'class="current"' ?>>The Building</a></li>
 				<li><a href="north-floorplate35-multi.php" <?php if($section == "spaces") echo 'class="current"' ?>>The Spaces</a></li>
-				<li><a href="exterior.php" <?php if($section == "gallery") echo 'class="current"' ?>>Gallery</a></li>
+				<!--<li><a href="exterior.php" <?php if($section == "gallery") echo 'class="current"' ?>>Gallery</a></li>-->
 				<li><a href="media.php" <?php if($section == "news")echo 'class="current"' ?>>News</a></li>
 			</ul>
 		</nav>

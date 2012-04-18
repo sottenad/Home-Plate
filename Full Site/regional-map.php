@@ -14,7 +14,7 @@
 	<section class="extended col clearfix">
 		<img src="img/regional-map.jpg" alt="Regional Map" />
 		<hr />
-		<h2>Home Plate Center’s central location near freeways and main arterials accommodates easy access from all regional communities.</h2>
+		<h6>Home Plate Center’s central location near freeways and main arterials accommodates easy access from all regional communities.</h6>
 	</section>
 	<div class="clear"></div>
 	</div><!--End Mainrow-->

@@ -60,7 +60,8 @@
 			</tr>
 			<tr>
 				<td class="col1">Ample Wattage</td>
-				<td>To meet all your power needs, our office suites accommodate 15 and Backup Systems	WHAT GOES HERE???????????????  watts per square foot. Both the north and south buildings have 4MW of power feeds and backup generator power for maximum peace of mind</td>
+				<td>To meet all your power needs, our office suites accommodate 15 watts per square foot. Both the north and south buildings have 4MW of power feeds and backup generator power for maximum peace of mind.
+				</td>
 			</tr>												
 			<tr>
 				<td class="col1">Data Center Readiness</td>
