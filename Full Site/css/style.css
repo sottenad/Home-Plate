@@ -40,10 +40,10 @@ body { margin: 0; font-size: 1em; line-height: 1.4; }
    Links
    ========================================================================== */
 
-a { color: #00e; }
-a:visited { color: #551a8b; }
-a:hover { color: #06e; }
-a:focus { outline: thin dotted; }
+a { color: #df7a1c; }
+a:visited { color: #df7a1c; }
+a:hover { color: #df7a1c; }
+a:focus { outline: none; }
 
 /* Improve readability when focused and hovered in all browsers: h5bp.com/h */
 a:hover, a:active { outline: 0; }
@@ -275,7 +275,7 @@ margin-top:-32767px;/* thank you Erik J - negate effect of float*/
 .clear{clear:both;}
 
 
-body{background: url(../img/bg.jpg) top center; text-rendering: optimizeLegibility }
+body{background: url(../img/bg.jpg) top center; text-rendering: optimizeLegibility; font-family: 'lato', helvetica, arial, sans-serif; }
 
 #h_top .t{
 -webkit-border-bottom-right-radius: 5px;
@@ -349,7 +349,7 @@ aside li{margin-bottom:12px;}
 .gal span{color:#444d3e; font-size: 10px; font-family: 'lato', helvetica, arial, sans-serif; text-transform: uppercase; display: block; text-align: center; }
 
 section.extended{width:705px; padding:0 30px; float:left;}
-section.extended h2{font-family: 'Stint Ultra Expanded', georgia, serif; font-size: 34px; margin-bottom:0px; margin-top:0; padding:0; font-weight: 100; color:#444d3e;}
+section.extended h2{font-family: 'Stint Ultra Expanded', georgia, serif; font-size: 34px; margin-bottom:14px; margin-top:0; padding:0; font-weight: 100; color:#444d3e;}
 section.extended h3{font-size: 18px; line-height: 26px;}
 
 footer, footer a{font-family: 'lato', helvetica, arial, sans-serif; color:white; font-size: 12px; text-decoration: none; line-height: 19px;}
@@ -373,6 +373,20 @@ hr{margin:30px 0 20px;}
 .floorplate-info strong{display: block; font-size: 24px; font-weight: normal; text-transform: lowercase; padding-top:5px; letter-spacing: 0.12em;}
 .floorplate-info .pdf{background:url(../img/pdf.png) no-repeat top center; height: 32px; width: 30px; display: block;  margin:auto; text-indent: -999em; overflow: hidden}
 
+.dd_callout{font-size: 12px; line-height: 20px;}
+.dd_callout dt{float:left; clear:both; display: block; width:145px; padding:10px 20px 10px 0;}
+.dd_callout dd{float:left; width:370px; padding:10px 0; margin: 0;}
+.dd_callout div{ border-top:1px dotted #aea291;}
+.dd_callout div.last{border-bottom:1px dotted #aea291; border-top:1px dotted #aea291;}
+.dd_callout dd strong{display: block;}
+.dd_callout p{margin:0; padding:0;}
+
+.borderrow{font-size:12px;}
+.borderrow tr{border-top:1px dotted #aea291; }
+.borderrow tr.last{border-bottom:1px dotted #aea291;}
+.borderrow tr{padding:5px 5px 5px 0;}
+.borderrow a{color:#444d3e}
+
 .nivoSlider {
     position:relative;
     width:960px; /* Change this to your images width */
@@ -386,7 +400,7 @@ hr{margin:30px 0 20px;}
 }
 .nivoSlider a {
     border:0;
-    display:block;
+    display:block; 
 }
 
 

@@ -3,7 +3,7 @@
 	$page_description = "";
 	$fb_title = "";
 	$fb_description = "";
-	$section = "";
+	$section = "home";
 	include('inc/header.php');
 ?>
 	  <div role="main" id="content">

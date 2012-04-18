@@ -33,8 +33,7 @@
 </head>
 <body>
 
-  <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
-       chromium.org/developers/how-tos/chrome-frame-getting-started -->
+
   <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
   <div id="wrap">
   	<div id="main">
@@ -44,7 +43,7 @@
 	  		<a href="#" class="t red">Home Plate Center</a>
 	  	</div>
 		<div id="h_main" class="clearfix">
-			<div id="h_callout">Grand Opening April 12 2012</div>
+			<?php if( isset($section) && $section == 'home') echo'<div id="h_callout">Grand Opening April 12 2012</div>'; ?>
 			<h1><a href="/homeplate">Home Plate Center</a></h1>
 		</div>
 		<div class="clear"></div>
@@ -54,7 +53,7 @@
 				<li><a href="design.php" <?php if($section == "building") echo 'class="current"' ?>>The Building</a></li>
 				<li><a href="north-floorplate35-multi.php" <?php if($section == "spaces") echo 'class="current"' ?>>The Spaces</a></li>
 				<li><a href="exterior.php" <?php if($section == "gallery") echo 'class="current"' ?>>Gallery</a></li>
-				<li><a href="#" <?php if($section == "news")echo 'class="current"' ?>>News</a></li>
+				<li><a href="media.php" <?php if($section == "news")echo 'class="current"' ?>>News</a></li>
 			</ul>
 		</nav>
 	  </header>
