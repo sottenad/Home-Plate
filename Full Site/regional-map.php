@@ -12,6 +12,7 @@
 	<?php include('inc/sidebar-location.php'); ?>
 	
 	<section class="extended col clearfix">
+		<div class="flag">Regional<br />Map</div>
 		<img src="img/regional-map.jpg" alt="Regional Map" />
 		<hr />
 		<h6>Home Plate Center’s central location near freeways and main arterials accommodates easy access from all regional communities.</h6>

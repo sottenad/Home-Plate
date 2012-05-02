@@ -12,6 +12,7 @@
 	<?php include('inc/sidebar-location.php'); ?>
 	
 	<section class="extended col clearfix">
+		<div class="flag">Transit</div>
 		<img src="img/transit-map.jpg" alt="Transit Map" />
 		<hr />
 		<h6>Seattle's Regional Transit Hub is in close proximity to Home Plate Center providing superior transit with a multi-modal hub for its tenants. </h6>
