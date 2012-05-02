@@ -27,12 +27,12 @@
 		<dl>
 			<dt>Seattle Metro</dt>
 			<dd><a href="http://metro.kingcounty.gov">metro.kingcounty.gov</a></dd>
-			<dt>Stadium District Plan</dt>
+			<dt>Stadium District Plan</dt>
 			<dd><a href="http://stadiumdistrict.org">stadiumdistrict.org</a></dd>
 			<dt>Seattle Seahawks</dt>
 			<dd><a href="http://seahawks.com">seahawks.com</a></dd>
 			<dt>Seattle Mariners</dt>
-			<dd><a href="http://seattle.mariners.mlb.com">seattle.mariners.mlb.com</a></dd>
+			<dd><a href="http://seattle.mariners.mlb.com">seattle.mariners.mlb.com</a></dd>
 			<dt>Seattle Sounders</dt>
 			<dd><a href="http://soundersfc.com">soundersfc.com</a></dd>
 			<dt>First Hill Streetcar</dt>

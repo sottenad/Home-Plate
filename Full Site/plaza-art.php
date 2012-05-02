@@ -15,7 +15,7 @@
 	<?php include('inc/sidebar-news.php'); ?>
 	
 	<section class="extended col clearfix">
-		<h2>About the Plaza Art and Artists</h2>
+		<h2>About the Plaza Art and Artist</h2>
 		
 			<p>
 			<em><strong>Art: Echoes on a Coastal Landscape</strong></em><br />

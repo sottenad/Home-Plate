@@ -71,10 +71,8 @@
 				<th colspan="2"><span>AMENITIES</span></th>
 			</tr>
 			<tr>
-				<td></td>
-				<td>Sensitively Designed and Warm and inviting, the hospitality-styled lobby features a great
-Appointed Public room with gas fireplace and radiant floor heating.
-and Exterior Spaces </td>
+				<td>Sensitively Designed and Appointed Public and Exterior Spaces</td>
+				<td>Warm and inviting, the hospitality-styled lobby features a great room with gas fireplace and radiant floor heating.</td>
 			</tr>
 			<tr>
 				<td class="col1">Conference Center</td>
