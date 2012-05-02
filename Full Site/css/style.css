@@ -368,9 +368,9 @@ hr{margin:30px 0 20px;}
 .home_gallery{width:960px; height: 400px;}
 
 .floorplate-info{margin-bottom:50px; color:#fff; text-transform: uppercase; text-align: center; font-family: 'lato', helvetica, arial, sans-serif; font-size: 10px; background:url(../img/floor-info.jpg) no-repeat top right; height:50px; width:719px; padding:10px 0 10px 20px;}
-.floorplate-info span{float:left; display: block; width:105px; border-right:1px solid #fff;}
-.floorplate-info .last{border-right:0;}
-.floorplate-info .first{width:135px;}
+.floorplate-info span{float:left; display: block; width:105px; border-left:1px solid #fff;}
+.floorplate-info .first{border-left:0;width:135px;}
+.floorplate-info .last{float:right;}
 .floorplate-info .fptitle{width:160px; border-right: none; text-align: left; font-size: 13px; line-height: 18px;}
 .floorplate-info strong{display: block; font-size: 24px; font-weight: normal; text-transform: lowercase; padding-top:5px; letter-spacing: 0.12em;}
 .floorplate-info .pdf{background:url(../img/pdf.png) no-repeat top center; height: 32px; width: 30px; display: block;  margin:auto; text-indent: -999em; overflow: hidden}

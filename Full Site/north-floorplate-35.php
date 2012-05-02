@@ -1,5 +1,5 @@
 <?php
-	$page_title = "North Building Floorplate 3-5 Multi Tenant Fit Test :: Home Plate Seattle";
+	$page_title = "North Building Floorplate 3-5 Open Floor Plate :: Home Plate Seattle";
 	$page_description = "";
 	$fb_title = "";
 	$fb_description = "";
@@ -16,12 +16,9 @@
 		<div class="floorplate-info">
 			<span class="fptitle">Total<br />Floor<br />Data</span>
 			<span class="fpdata first">Gross Area<strong>29,585sf</strong></span>
-			<span class="fpdata">Workstations<strong>153</strong></span>
-			<span class="fpdata">Private Offices<strong>21</strong></span>
-			<span class="fpdata">Conferences<strong>6</strong></span>
 			<span class="fpdata last">Download<strong><a href="#" class="pdf">PDF</a></strong></span>												
 		</div>
-		<img src="img/north-floor-35-multi.png" alt="" />
+		<img src="img/north-floor-35.png" alt="" />
 		
 	</section>
 	<div class="clear"></div>
