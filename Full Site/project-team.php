@@ -34,19 +34,16 @@
 				<td>Architect</td>
 				<td><a href="http://www.fhoarch.com/">Freiheit &amp; Ho Architects, Inc.</a></td>
 			</tr>
-			<tr>
+			<tr class="last">
 				<td>Engineers</td>
 				<td>
 					Civil: D.R. Strong<br />
 					Structural: DCI Engineers	<br />	
-					Mechanical/Plumbing: MacDonald Miller<br />
+					Mechanical/Plumbing: MacDonald-Miller<br />
 					Electrical: Gerber Engineering, Inc.<br />
-					Data Center: Hunt Engineering<br />	
+					Data Center: Hunt Engineering<br />
+					Leasing Team: CBRE	
 				</td>
-			</tr>
-			<tr class="last">
-				<td>Leasing</td>
-				<td>CBRE</td>
 			</tr>
 		</table>
 	</section>

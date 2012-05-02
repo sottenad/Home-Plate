@@ -21,7 +21,7 @@
 			</tr>
 			<tr>
 				<td class="col1">Open and Flexible Floor Plates</td>
-				<td>26.5k-29.5k (typical) with extensive window line creates efficient Floor Plates	floor plans, exceptionally designed. </td>
+				<td>26,500-29,500 rsf (typical) with extensive window line creates efficient floor plans, exceptionally designed.  </td>
 			</tr>
 			<tr>
 				<td class="col1">Define your Own Space</td>
@@ -29,11 +29,11 @@
 			</tr>
 			<tr>
 				<td class="col1">High Performance Glass</td>
-				<td>You and your staff will enjoy plenty of natural light throughout the day. The advanced window system optimizes HVAC efficiency and Superior (STC) glass rating for noise control. </td>
+				<td>You and your staff will enjoy plenty of natural light throughout the day. The advanced window system optimizes HVAC efficiency and Superior glass rating (STC) for noise control. </td>
 			</tr>			
 			<tr>
 				<td class="col1">Impressive ceiling and window height</td>
-				<td>Floor to ceiling windows brings the light and the outdoors in. 12’ and window height	ceiling heights with drop ceiling make work a pleasure. </td>
+				<td>Floor to ceiling windows bring the light and the outdoors in. 12’ ceiling heights, 9’ (10’ on floor 6) with drop ceiling make work a pleasure.  </td>
 			</tr>
 			<tr>
 				<td class="col1">Optimum Indoor Air Quality</td>
@@ -45,18 +45,18 @@
 			</tr>
 			<tr>
 				<td class="col1">High-speed Elevators</td>
-				<td>Three high-speed Thyssen Krupp elevators: two passenger elevators and one for passenger/freight.</td>
+				<td>Three high-speed ThyssenKrupp elevators: two passenger elevators and one for passenger/freight.</td>
 			</tr>
 			<tr>
-				<td class="col1">Extra-strong Structure</td>
-				<td>Built for ultimate load bearing, you will find solid and unit post tension reinforced concrete with a capacity of up to 100-lbs. /ft. live load.</td>
+				<td class="col1">Increased Structural Floor Loading</td>
+				<td> Built for ultimate load bearing, you will find unit post tension reinforced concrete with a capacity of up to 100-lbs. /ft. live load.</td>
 			</tr>
 			<tr>
 				<th colspan="2"><span>TECHNOLOGY</span></th>
 			</tr>												
 			<tr>
 				<td class="col1">Connectivity</td>
-				<td>Both buildings have hook-up ready dark fiber infrastructure. Stay connected to business and the world anywhere in the building, plaza or roof terraces with uninterrupted, high-speed internet access and Wi-Fi throughout.</td>
+				<td>Both buildings have dark fiber infrastructure. Stay connected to business and the world anywhere in the building, plaza or roof terraces with uninterrupted, high-speed internet access and Wi-Fi throughout.  </td>
 			</tr>
 			<tr>
 				<td class="col1">Ample Wattage</td>
@@ -76,19 +76,19 @@
 			</tr>
 			<tr>
 				<td class="col1">Conference Center</td>
-				<td>State-of-the-art conference center with lounge and kitchenette Space.</td>
+				<td>State-of-the-art conference center with lounge and kitchenette space. </td>
 			</tr>
 			<tr>
 				<td class="col1">Public Plaza with Kinetic Sculpture</td>
-				<td>The world-class street level public plaza with granite stone pavers features kinetic sculpture by Konstantin Dimopolous.</td>
+				<td>The world-class street level public plaza with granite stone pavers features kinetic sculpture by Konstantin Dimopoulos. </td>
 			</tr>	
 			<tr>
 				<td class="col1">View Decks</td>
-				<td>The North building features two expansive 6th floor view decks with NaNaWall® System and panoramic views will please tenants and their clients.</td>
+				<td>The North building features two expansive 6th floor view decks with NaNaWall&reg; System and panoramic views that will please tenants and their clients. </td>
 			</tr>	
 			<tr>
 				<td class="col1">Onsite Dining and Convenience</td>
-				<td>Impressive on campus 11,500 sf restaurant and coffee spot make it easy to take breaks, entertain clients or take a work break, and onsite exterior ATMs offer added convenience. </td>
+				<td>Impressive on campus 11,500 sf restaurant and coffee spot make it easy to entertain clients or take a work break, and onsite exterior ATMs offer added convenience.  </td>
 			</tr>	
 			<tr>
 				<td class="col1">Green and Healthy</td>
@@ -96,7 +96,7 @@
 			</tr>	
 			<tr>
 				<td class="col1">Parking and Loading Docks</td>
-				<td>Never waste time looking for a parking spot. You’ll find multiple building garage access points, generous 2.5:1,000 rsf parting ratio, controlled access garage access from the sidewalk, and building loading docks to make moving materials easy and efficient.</td>
+				<td>Never waste time looking for a parking spot. You’ll find multiple building garage access points, generous 2.5:1,000 rsf parking ratio, controlled access garage access from the sidewalk, and building loading docks to make moving materials easy and efficient. </td>
 			</tr>	
 			<tr>
 				<th colspan="2"><span>SAFETY</span></th>
@@ -107,7 +107,7 @@
 			</tr>
 			<tr>
 				<td class="col1">Security</td>
-				<td>Visitors, tenants and staff can feel secure with around-the-clock onsite security, with 3 guards and key card access</td>
+				<td>Visitors, tenants and staff can feel secure with around-the-clock onsite security, with security guards and key card access.</td>
 			</tr>	
 																											
 		</table>

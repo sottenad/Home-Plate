@@ -15,11 +15,13 @@
 	<section class="maincol col clearfix">
 		<h2>The SODO Triple Play</h2>
 		<h4>VIBRANT</h4>
-		<p>SODO’s Stadium District is Seattle&#39;s emerging &lsquo;go to&rsquo; place. Easy to access, the home of Safeco Field, CenturyLink Field and CenturyLink Field Event Center offers countless brand impressions thanks to the sport fans and visitors who congregate there every season &ndash; and every day.  New business and housing developments, open space, views and cool cultural scene attract people looking for a great place to connect, like the inviting sculpture Plaza at Home Place Center. </p>
+		<p>SODO's Stadium District is Seattle's emerging 'go to' place. Easy to access, the home of Safeco Field, CenturyLink Field and CenturyLink Field Event Center offers countless brand impressions thanks to the sports fans and visitors who congregate there every season - and every day.  New business and housing developments, open space, views and cool cultural scene attract people looking for a great place to connect, like the inviting sculpture Plaza at Home Place Center. </p>
 		<h4>PROGRESSIVE</h4>
-		<p>Home to visionaries and leading-edge organizations like Starbucks, McKinstry, Cobalt, Isolan Biotechnology, Getty Images, Outdoor Research and Zulily.com, SODO is a place with local character, a long history and bright future. A progressive zone, it appeals to businesses that recognize it as a draw for talent. </p>
+		<p>Home to visionaries and leading-edge organizations like Starbucks, McKinstry, Outdoor Research and Zulily, SODO is a place with local character, a long history and bright future. A progressive zone, it appeals to businesses that recognize it as a draw for talent. </p>
 		<h4>CONVENIENT</h4>
-		<p>Close to downtown and the waterfront, the site offers direct access to the Highway 99 tunnel a half block away, proximity to I&ndash;90, I&ndash;5, and convenience for bus and rail commuters through the Seattle Regional Transit Hub. Three full buildings of parking simplify driving, too. Hotels are nearby, including the Silver Cloud Hotel with conference rooms one block north of Home Plate Center. A block away, CenturyLink Field Event Center provides excellent accommodation for large events. </p>
+		<p>Close to downtown and the waterfront, the site offers direct access to the Highway 99 tunnel a half block away, proximity to I-90, I-5, and convenience for bus and rail commuters through the Seattle Regional Transit Hub. You'll love how quickly you get to and from major freeways, and the abundant parking with approximately 775 stalls. Hotels are nearby, including the Silver Cloud Hotel with conference rooms one block away. CenturyLink Field Event Center provides excellent accommodation for large events just a stroll away. </p>
+		
+
 	</section>
 	
 	<aside class="col sidebar">

@@ -84,6 +84,7 @@ sup { top: -0.5em; }
 sub { bottom: -0.25em; }
 
 h2{font-family: 'Stint Ultra Expanded', georgia, serif; font-size: 34px; margin-bottom:14px; font-weight: 100}
+section.extended h2.sm{font-family: 'Stint Ultra Expanded', georgia, serif; font-size: 24px; margin-bottom:20px; font-weight: 100}
 h3{font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; font-weight: normal; text-transform: uppercase; color:#444d3e; margin-top:10px;}
 h4{font-family: 'Lato', helvetica, arial, sans-serif; font-size: 14px; font-weight: normal; text-transform: uppercase; color:#444d3e; letter-spacing: 0.25em; margin-bottom: 0.25em;}
 h5{font-family: 'Lato', helvetica, arial, sans-serif; font-size: 14px; font-weight: normal; text-transform: uppercase; color:#8b9b92;}
@@ -371,7 +372,7 @@ hr{margin:30px 0 20px;}
 .floorplate-info span{float:left; display: block; width:105px; border-left:1px solid #fff;}
 .floorplate-info .first{border-left:0;width:135px;}
 .floorplate-info .last{float:right;}
-.floorplate-info .fptitle{width:160px; border-right: none; text-align: left; font-size: 13px; line-height: 18px;}
+.floorplate-info .fptitle{width:160px; border-left: none; text-align: left; font-size: 13px; line-height: 18px;}
 .floorplate-info strong{display: block; font-size: 24px; font-weight: normal; text-transform: lowercase; padding-top:5px; letter-spacing: 0.12em;}
 .floorplate-info .pdf{background:url(../img/pdf.png) no-repeat top center; height: 32px; width: 30px; display: block;  margin:auto; text-indent: -999em; overflow: hidden}
 

@@ -16,9 +16,11 @@
 		<div class="floorplate-info">
 			<span class="fptitle">Total<br />Floor<br />Data</span>
 			<span class="fpdata first">Gross Area<strong>47,454sf</strong></span>
-			<span class="fpdata last">Download<strong><a href="#" class="pdf">PDF</a></strong></span>												
+			<span class="fpdata last">Download<strong><a href="pdf/south-floor-56.pdf" class="pdf">PDF</a></strong></span>												
 		</div>
-		<img src="img/south-floor-56-single.png" alt="" />
+		<h2 class="sm">Floors 5-6&nbsp; |&nbsp; Open Floor Plate</h2>
+
+		<img src="img/south-floor-56.png" alt="" />
 		
 	</section>
 	<div class="clear"></div>
