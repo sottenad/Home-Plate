@@ -28,9 +28,9 @@
 		<h5>Green Features</h5>
 		<p>Constructed in keeping with environmental concerns.</p>
 		<ul>
-			<li>Pursuing LEED&reg;  Gold Certification</li>
+			<li>Pursuing LEED<sup>&reg;</sup>  Gold Certification</li>
 			<li>Near bus, light rail and regional train stations, and Washington State Ferry Terminal</li>
-			<li>Zipcar&reg; car sharing service</li>
+			<li>Zipcar<sup>&reg;</sup> car sharing service</li>
 			<li>Bike lockers and shower facilities</li>
 			<li>Underground parking for reduced heat island effect</li>
 			<li>Low-flow fixtures conserve water consumption</li>

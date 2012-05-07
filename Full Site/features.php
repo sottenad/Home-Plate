@@ -65,8 +65,10 @@
 			</tr>												
 			<tr>
 				<td class="col1">Data Center Readiness</td>
-				<td>Not business as usual, Home Plate Center is data center-ready to meet the demands of today’s businesses. Floor 4 of the south building is a dedicated data center, and floors 5-7 of the south building have the infrastructure to operate as independent data centers.</td>
+				<td>Home Plate Center is data center-ready to meet the demands of today's businesses. Floor 4 of the south building is a dedicated data center and can accommodate up to 550 server racks, and floors 5-7 of the south building have the infrastructure to operate as independent data centers.</td>
 			</tr>
+			
+
 			<tr>
 				<th colspan="2"><span>AMENITIES</span></th>
 			</tr>
@@ -84,7 +86,7 @@
 			</tr>	
 			<tr>
 				<td class="col1">View Decks</td>
-				<td>The North building features two expansive 6th floor view decks with NaNaWall&reg; System and panoramic views that will please tenants and their clients. </td>
+				<td>The North building features two expansive 6th floor view decks with NaNaWall<sup>&reg;</sup> System and panoramic views that will please tenants and their clients. </td>
 			</tr>	
 			<tr>
 				<td class="col1">Onsite Dining and Convenience</td>
@@ -92,7 +94,7 @@
 			</tr>	
 			<tr>
 				<td class="col1">Green and Healthy</td>
-				<td>We build with environmental concerns in mind and are pursuing LEED® Gold Certification.  Underground parking creates a reduced heat island effect, while low-flow fixtures conserve water consumption. Alternative Commuting is encouraged  via our location near bus and light rail stations, bike lockers, and Zipcar® car sharing service. Gym and showers make it easy to exercise. </td>
+				<td>We build with environmental concerns in mind and are pursuing LEED<sup>&reg;</sup> Gold Certification.  Underground parking creates a reduced heat island effect, while low-flow fixtures conserve water consumption. Alternative Commuting is encouraged  via our location near bus and light rail stations, bike lockers, and Zipcar<sup>&reg;</sup> car sharing service. Gym and showers make it easy to exercise. </td>
 			</tr>	
 			<tr>
 				<td class="col1">Parking and Loading Docks</td>

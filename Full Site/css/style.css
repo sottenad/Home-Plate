@@ -379,10 +379,12 @@ hr{margin:30px 0 20px;}
 .dd_callout{font-size: 12px; line-height: 20px;}
 .dd_callout dt{float:left; clear:both; display: block; width:145px; padding:10px 20px 10px 0;}
 .dd_callout dd{float:left; width:370px; padding:10px 0; margin: 0;}
-.dd_callout div{ border-top:1px dotted #aea291;}
-.dd_callout div.last{border-bottom:1px dotted #aea291; border-top:1px dotted #aea291;}
+.dd_callout div{ border-top:1px solid #cdc5b8;}
+.dd_callout div.last{border-bottom:1px solid #cdc5b8; border-top:1px dotted #aea291;}
 .dd_callout dd strong{display: block;}
 .dd_callout p{margin:0; padding:0;}
+section.extended .dd_callout h3{background:#fed59c; color:#444d3e; font-size:11px; text-transform: uppercase; padding:3px 5px 3px 8px; margin:3px 0; }
+
 
 .borderrow{font-size:12px;}
 .borderrow tr{border-top:1px dotted #aea291; }
