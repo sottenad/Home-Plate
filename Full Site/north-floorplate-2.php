@@ -15,7 +15,7 @@
 	<section class="extended col clearfix">
 		<div class="floorplate-info">
 			<span class="fptitle">Total<br />Floor<br />Data</span>
-			<span class="fpdata first">Gross Area<strong>29,585sf</strong></span>
+			<span class="fpdata first">Gross Area<strong>27,636sf</strong></span>
 			<span class="fpdata last">Download<strong><a href="pdf/north-floor-2.pdf" class="pdf">PDF</a></strong></span>												
 		</div>
 		<h2 class="sm">Floor 2&nbsp; |&nbsp; Open Floor Plate</h2>

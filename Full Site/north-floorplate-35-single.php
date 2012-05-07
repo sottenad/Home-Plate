@@ -15,7 +15,7 @@
 	<section class="extended col clearfix">
 		<div class="floorplate-info">
 			<span class="fptitle">Total<br />Floor<br />Data</span>
-			<span class="fpdata first">Gross Area<strong>29,585sf</strong></span>
+			<span class="fpdata first">Gross Area<strong>29,584sf</strong></span>
 			<span class="fpdata">Workstations<strong>153</strong></span>
 			<span class="fpdata">Private Offices<strong>21</strong></span>
 			<span class="fpdata">Conferences<strong>6</strong></span>
