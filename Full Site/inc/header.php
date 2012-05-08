@@ -39,8 +39,8 @@
   	<div id="main">
 	  <header>
 	  	<div id="h_top" class="clearfix">
-		  	<a href="#" class="t">Stadium Innovation Center</a>
-	  		<a href="#" class="t red">Home Plate Center</a>
+		<!--  	<a href="#" class="t">Stadium Innovation Center</a>
+	  		<a href="#" class="t red">Home Plate Center</a>-->
 	  	</div>
 		<div id="h_main" class="clearfix">
 			<?php if( isset($section) && $section == 'home') echo'<div id="h_callout">Grand Opening April 12 2012</div>'; ?>
