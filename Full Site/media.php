@@ -105,7 +105,7 @@
 				<dl>
 					<dt>Greening of Starbucks Center</dt>
 					<dd>
-						<p><a href="http://www.nitze-stagen.com/starbucks.html"></a>http://www.nitze-stagen.com/starbucks.html</p>
+						<p><a href="http://www.nitze-stagen.com/starbucks.html">http://www.nitze-stagen.com/starbucks.html</a></p>
 					</dd>
 				</dl>
 			</div>									
