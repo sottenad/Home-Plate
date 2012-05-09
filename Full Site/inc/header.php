@@ -13,46 +13,36 @@
   <link rel="dns-prefetch" href="//ajax.googleapis.com" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-  <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
-
   <link rel="stylesheet" href="css/style.css">
-  
-  <!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
   <meta http-equiv="imagetoolbar" content="false" />
   <meta name="application-name" content="Home Plate Center" />
   <meta name="msapplication-tooltip" content="Home Plate Center Seattle" />
-
-  <!--Facebook OG tags -->
   <meta property="og:title" content="<?php if(isset($fb_title)){echo $fb_title; } ?>" />
   <meta property="og:description" content="<?php if(isset($fb_description)){echo $fb_description; } ?>" />
   <meta property="og:image" content="" />  
-
-
   <script src="js/libs/modernizr-2.5.3.min.js"></script>
 </head>
 <body>
-
-
-  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
   <div id="wrap">
   	<div id="main">
 	  <header>
 	  	<div id="h_top" class="clearfix">
-		<!--  	<a href="#" class="t">Stadium Innovation Center</a>
-	  		<a href="#" class="t red">Home Plate Center</a>-->
+		<?php 
+		  	//<a href="#" class="t">Stadium Innovation Center</a>
+	  		//<a href="#" class="t red">Home Plate Center</a>
+	    ?>
 	  	</div>
 		<div id="h_main" class="clearfix">
 			<?php if( isset($section) && $section == 'home') echo'<div id="h_callout">Grand Opening April 12 2012</div>'; ?>
-			<h1><a href="/homeplate">Home Plate Center</a></h1>
+			<h1><a href="/">Home Plate Center</a></h1>
 		</div>
 		<div class="clear"></div>
 		<nav class="clearfix main">
 			<ul>
 				<li><a href="location.php" <?php if($section == "location"){echo 'class="current"';} ?>>The Location</a></li>
 				<li><a href="design.php" <?php if($section == "building") echo 'class="current"' ?>>The Building</a></li>
-				<li><a href="north-floorplate35-multi.php" <?php if($section == "spaces") echo 'class="current"' ?>>The Spaces</a></li>
-				<!--<li><a href="exterior.php" <?php if($section == "gallery") echo 'class="current"' ?>>Gallery</a></li>-->
+				<li><a href="north-floorplate-1.php" <?php if($section == "spaces") echo 'class="current"' ?>>The Spaces</a></li>
+				<?php //<li><a href="exterior.php" >Gallery</a></li> ?>
 				<li><a href="media.php" <?php if($section == "news")echo 'class="current"' ?>>News</a></li>
 			</ul>
 		</nav>

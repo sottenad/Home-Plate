@@ -1,7 +1,5 @@
 $(window).load(function() {
     $('.nivoSlider').nivoSlider({controlNav:false, directionNav:false, effect:'fade'});
-    
-    /*Equalize Cols*/
 	var currentTallest = 0,
 	     currentRowStart = 0,
 	     rowDivs = new Array(),

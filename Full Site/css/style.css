@@ -87,6 +87,7 @@ h2{font-family: 'Stint Ultra Expanded', georgia, serif; font-size: 34px; margin-
 section.extended h2.sm{font-family: 'Stint Ultra Expanded', georgia, serif; font-size: 24px; margin-bottom:20px; font-weight: 100}
 h3{font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; font-weight: normal; text-transform: uppercase; color:#444d3e; margin-top:10px;}
 h4{font-family: 'Lato', helvetica, arial, sans-serif; font-size: 14px; font-weight: normal; text-transform: uppercase; color:#444d3e; letter-spacing: 0.25em; margin-bottom: 0.25em;}
+.subnav h4{letter-spacing: 0; margin-bottom:0.5em;}
 h5{font-family: 'Lato', helvetica, arial, sans-serif; font-size: 14px; font-weight: normal; text-transform: uppercase; color:#8b9b92;}
 h6{font-family: 'Stint Ultra Expanded', georgia, serif; font-size: 18px; margin-bottom:14px; font-weight: 100}
 p{font-family:'Lato', helvetica, arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom:1.5em;}
@@ -222,7 +223,7 @@ td { vertical-align: top; }
 vertical margins (top and bottom) to add spacing, else those margins get added to total height 
 and your footer gets pushed down a bit more, creating vertical scroll bars in the browser */
 
-html, body {height: 100%;}
+html, body {height: 100%; padding-top:20px;}
 
 #wrap {min-height: 100%;} /*originally called wrap */
 
@@ -303,7 +304,7 @@ font-family: 'Lato', arial, sans-serif;
 #h_main{background:#e4dbc9; position: relative; }
 h1{float: right;}
 h1 a{background:url(../img/logo.png) no-repeat 40px 30px;  height:60px; width:260px; padding:30px 40px; text-indent: -999em; overflow: hidden;display: block;}
-#h_callout{background:url(../img/bug.png) no-repeat; height:106px; width:266px; position: absolute; top:0; left:30px; display: block; text-indent: -999em; overflow: hidden}
+#h_callout{background:url(../img/bug.png) no-repeat; height:106px; width:277px; position: absolute; top:0; left:30px; display: block; text-indent: -999em; overflow: hidden}
 
 nav.main{color:#fff; font-family: 'questrial', helvetica, sans-serif; font-size: 15px; background:#7f8e91; padding-left:60px;}
 nav.main ul{margin:auto; text-align: center}
