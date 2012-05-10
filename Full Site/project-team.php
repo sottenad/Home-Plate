@@ -42,7 +42,7 @@
 					Mechanical/Plumbing: MacDonald-Miller<br />
 					Electrical: Gerber Engineering, Inc.<br />
 					Data Center: Hunt Engineering<br />
-					Leasing Team: CBRE	
+					Leasing Team: <a href="http://www.cbre.com/">CBRE</a>	
 				</td>
 			</tr>
 		</table>
