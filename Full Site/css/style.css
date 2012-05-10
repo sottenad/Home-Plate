@@ -32,8 +32,8 @@ body { margin: 0; font-size: 1em; line-height: 1.4; }
  * Also: hot pink! (or customize the background color to match your design)
  */
 
-::-moz-selection { background: #fe57a1; color: #fff; text-shadow: none; }
-::selection { background: #fe57a1; color: #fff; text-shadow: none; }
+::-moz-selection { background: #e8b170; color: #fff; text-shadow: none; }
+::selection { background: #e8b170; color: #fff; text-shadow: none; }
 
 
 /* =============================================================================
@@ -360,6 +360,7 @@ footer, footer a{font-family: 'lato', helvetica, arial, sans-serif; color:white;
 footer #f_main{ height:90px; padding-top:30px}
 footer #f_sub{background:#e4dbc9; height:25px; color:#444d3e; font-size: 9px;}
 footer #f_sub a{color:#444d3e; padding-left: 10px; font-size: 9px;}
+footer #f_sub a.nopad{padding:0;}
 footer .col_220{width:200px; padding:25px 8px 5px 12px; float:left}
 footer .col_190{width:150px; padding:10px 8px 5px 12px; float:left; border-left:1px solid white}
 

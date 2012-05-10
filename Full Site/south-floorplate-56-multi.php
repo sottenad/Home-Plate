@@ -20,7 +20,7 @@
 			<span class="fpdata">Workstations<strong>168</strong></span>
 			<span class="fpdata">Private Offices<strong>38</strong></span>
 			<span class="fpdata">Conferences<strong>13</strong></strong></span>
-			<span class="fpdata last">Download<strong><a href="pdf/south-floor-56-multi.pdf" class="pdf">PDF</a></strong></span>												
+			<span class="fpdata last">Download<strong><a href="pdf/south-floor-56-multi.pdf" target="_blank" class="pdf">PDF</a></strong></span>												
 		</div>
 		<h2 class="sm">Floors 5-6&nbsp; |&nbsp; Multi-tenant Test Fit</h2>
 
