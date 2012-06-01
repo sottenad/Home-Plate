@@ -14,7 +14,6 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/jquery.fancybox.css">
   <meta http-equiv="imagetoolbar" content="false" />
   <meta name="application-name" content="Home Plate Center" />
   <meta name="msapplication-tooltip" content="Home Plate Center Seattle" />
