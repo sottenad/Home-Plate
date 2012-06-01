@@ -16,9 +16,10 @@
 		<p>Click on any image to enlarge</p>
 		
 		<div class="gal">
-			<img src="img/placeholder.jpg" alt="" />
+			<a href="img/bug.png" class="fancybox"><img src="http://placehold.it/150x150" alt="" /></a>
 			<span>Lobby Lounge</span>
 		</div>
+		
 		<div class="gal">
 			<img src="img/placeholder.jpg" alt="" />
 			<span>Lobby Lounge</span>

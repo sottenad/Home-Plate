@@ -8,7 +8,7 @@
 ?>
 
 <div role="main" id="content" class="clearfix">
-	<img src="img/banners/press_release.jpg" alt="Home Plate Seattle Media and Press Releases" />
+	<img src="img/banners/news.jpg" alt="Home Plate Seattle Media and Press Releases" />
 	<div class="mainrow">
 	
 

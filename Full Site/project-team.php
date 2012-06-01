@@ -8,7 +8,7 @@
 ?>
 
 <div role="main" id="content" class="clearfix">
-	<img src="img/banners/press_release.jpg" alt="Home Plate Seattle Media and Press Releases" />
+	<img src="img/banners/project_team.jpg" alt="Home Plate Seattle Media and Press Releases" />
 	<div class="mainrow">
 	
 
@@ -42,7 +42,7 @@
 					Mechanical/Plumbing: MacDonald-Miller<br />
 					Electrical: Gerber Engineering, Inc.<br />
 					Data Center: Hunt Engineering<br />
-					Leasing Team: <a href="http://www.cbre.com/">CBRE</a>	
+					Leasing Team: CBRE	
 				</td>
 			</tr>
 		</table>

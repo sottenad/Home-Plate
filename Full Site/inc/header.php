@@ -14,6 +14,7 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/jquery.fancybox.css">
   <meta http-equiv="imagetoolbar" content="false" />
   <meta name="application-name" content="Home Plate Center" />
   <meta name="msapplication-tooltip" content="Home Plate Center Seattle" />
@@ -27,10 +28,10 @@
   	<div id="main">
 	  <header>
 	  	<div id="h_top" class="clearfix">
-		<?php 
-		  	//<a href="#" class="t">Stadium Innovation Center</a>
-	  		//<a href="#" class="t red">Home Plate Center</a>
-	    ?>
+
+		  	<a href="/sic/index.php" class="t">Stadium Innovation Center</a>
+	  		<a href="http://homeplateseattle.com/" class="t red">Home Plate Center</a>
+
 	  	</div>
 		<div id="h_main" class="clearfix">
 			<?php if( isset($section) && $section == 'home') echo'<div id="h_callout">Grand Opening April 12 2012</div>'; ?>
@@ -42,7 +43,7 @@
 				<li><a href="location.php" <?php if($section == "location"){echo 'class="current"';} ?>>The Location</a></li>
 				<li><a href="design.php" <?php if($section == "building") echo 'class="current"' ?>>The Building</a></li>
 				<li><a href="north-floorplate-1.php" <?php if($section == "spaces") echo 'class="current"' ?>>The Spaces</a></li>
-				<?php //<li><a href="exterior.php" >Gallery</a></li> ?>
+				<li><a href="exterior.php" <?php if($section == "gallery") echo 'class="current"' ?> >Gallery</a></li> 
 				<li><a href="media.php" <?php if($section == "news")echo 'class="current"' ?>>News</a></li>
 			</ul>
 		</nav>

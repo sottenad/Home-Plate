@@ -8,7 +8,7 @@
 ?>
 
 <div role="main" id="content" class="clearfix">
-	<img src="img/banners/superior_design.jpg" alt="Home Plate Seattle Location" />
+	<img src="img/banners/building_features.jpg" alt="Home Plate Seattle Location" />
 	<div class="mainrow">
 	<?php include('inc/sidebar-building.php'); ?>
 	
