@@ -304,7 +304,7 @@ font-family: 'Lato', arial, sans-serif;
 #h_main{background:#e4dbc9; position: relative; }
 h1{float: right;}
 h1 a{background:url(../img/logo.png) no-repeat 40px 30px;  height:60px; width:260px; padding:30px 40px; text-indent: -999em; overflow: hidden;display: block;}
-#h_callout{background:url(../img/bug.png) no-repeat; height:106px; width:277px; position: absolute; top:0; left:30px; display: block; text-indent: -999em; overflow: hidden}
+#h_callout{cursor:pointer; background:url(../img/brochure_download.png) no-repeat; height:120px; width:289px; position: absolute; top:0; left:0px; display: block; text-indent: -999em; overflow: hidden}
 
 nav.main{color:#fff; font-family: 'questrial', helvetica, sans-serif; font-size: 15px; background:#7f8e91; padding-left:60px;}
 nav.main ul{margin:auto; text-align: center}

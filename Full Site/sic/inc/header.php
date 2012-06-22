@@ -34,7 +34,7 @@
 	  	</div>
 		<div id="h_main" class="clearfix">
 			<?php if( isset($section) && $section == 'home') echo'<div id="h_callout">Grand Opening April 12 2012</div>'; ?>
-			<h1><a href="/">Home Plate Center</a></h1>
+			<h1><a href="/sic">Stadium Innovation Center</a></h1>
 		</div>
 		<div class="clear"></div>
 		<nav class="clearfix main">

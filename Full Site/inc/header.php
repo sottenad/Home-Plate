@@ -33,7 +33,8 @@
 
 	  	</div>
 		<div id="h_main" class="clearfix">
-			<?php if( isset($section) && $section == 'home') echo'<div id="h_callout">Grand Opening April 12 2012</div>'; ?>
+			<?php if( isset($section) && $section == 'home') echo'<a href="pdf/Home_Plate_Seattle.pdf" id="h_callout">Download Online Brochure</a>'; ?>
+
 			<h1><a href="/">Home Plate Center</a></h1>
 		</div>
 		<div class="clear"></div>
