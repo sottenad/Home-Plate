@@ -1,0 +1,149 @@
+@import url(http://fonts.googleapis.com/css?family=Stint+Ultra+Expanded);
+*{outline: none!important;}
+
+html, body, div, span, applet, object, iframe, 
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, 
+a, abbr, acronym, address, big, cite, code, 
+del, dfn, em, img, ins, kbd, q, s, samp, 
+small, strike, strong, sub, sup, tt, var, 
+b, u, i, center, 
+dl, dt, dd, ol, ul, li, 
+fieldset, form, label, legend, 
+table, caption, tbody, tfoot, thead, tr, th, td, 
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary, 
+time, mark, audio, video{margin:0; padding:0; border:0; font-size:100%; font:inherit; vertical-align:baseline}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section{display:block}
+body{line-height:1}
+ol, ul{list-style:none}
+blockquote, q{quotes:none}
+blockquote:before, blockquote:after, 
+q:before, q:after{content:''; content:none}
+table{border-collapse:collapse; border-spacing:0}
+
+.window{
+	height:500px; 
+	width:500px;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin:-254px 0 0 -254px;
+	padding:0 8px 8px 0;
+	background:url(../img/windowbg.png) no-repeat top left;
+}
+
+.window h1{
+	width:255px;
+	height:58px;
+	background:url(../img/HomePlateSeattleLogo.png) no-repeat top center;
+	margin:40px auto 45px;
+	padding:0;
+	text-indent: -999em;
+	overflow: hidden;
+}
+
+.window #video{
+	width:500px;
+	height:166px; 
+	display: block;
+	background: url(../img/vidbutton.png) no-repeat top left;
+	text-indent: -999em;
+	overflow: hidden;
+}
+
+.window  h3{
+	font-family: 'Stint Ultra Expanded', 'Georgia', cursive;
+	font-size: 16px;
+	font-weight: normal;
+	color:#806d4b;
+	padding:40px 0 15px 130px;
+	margin:0;
+}
+
+.window .sidebar{
+	float:left;
+	width:115px;
+	
+}
+
+.window .sidebar a{
+	height:18px;
+	width:71px;
+	display: block;
+	float:right;
+	margin:1px 15px 0 0;
+	background: url(../img/cbrelogo.png) no-repeat top left;
+	text-indent: -999em;
+	overflow: hidden; 
+}
+
+.window .emails{
+	float:left;
+}
+
+.window .emails ul{
+	list-style-type:none;
+	font-size: 12px;
+	font-family: "Arial", "Helvetica", sans-serif;
+	font-weight: normal;
+	color: #2c1e00;
+	border-left: 2px solid #806d4b;
+	margin:0; 
+	padding: 0 0 0 15px;
+}
+
+.window .emails ul li{
+	padding:0 0 7px 0;
+}
+
+.window .emails ul a{
+	color: #2c1e00;
+	text-decoration: none;
+}
+
+.window .emails strong{
+	font-weight: bold;
+}
+
+/*
+    ColorBox Core Style:
+    The following CSS is consistent between example themes and should not be altered.
+*/
+#colorbox, #cboxOverlay, #cboxWrapper{position:absolute; top:0; left:0; z-index:9999; overflow:hidden;}
+#cboxOverlay{position:fixed; width:100%; height:100%;}
+#cboxMiddleLeft, #cboxBottomLeft{clear:left;}
+#cboxContent{position:relative;}
+#cboxLoadedContent{overflow:auto;}
+#cboxTitle{margin:0;}
+#cboxLoadingOverlay, #cboxLoadingGraphic{position:absolute; top:0; left:0; width:100%; height:100%;}
+#cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow{cursor:pointer;}
+.cboxPhoto{float:left; margin:auto; border:0; display:block;}
+.cboxIframe{width:100%; height:100%; display:block; border:0;}
+
+/* 
+    User Style:
+    Change the following styles to modify the appearance of ColorBox.  They are
+    ordered & tabbed in a way that represents the nesting of the generated HTML.
+*/
+#cboxOverlay{background:#000;}
+#colorbox{}
+    #cboxContent{margin-top:20px;}
+        .cboxIframe{background:#fff;}
+        #cboxError{padding:50px; border:1px solid #ccc;}
+        #cboxLoadedContent{border:5px solid #000; background:#fff;}
+        #cboxTitle{position:absolute; top:-20px; left:0; color:#ccc;}
+        #cboxCurrent{position:absolute; top:-20px; right:0px; color:#ccc;}
+        #cboxSlideshow{position:absolute; top:-20px; right:90px; color:#fff;}
+        #cboxPrevious{position:absolute; top:50%; left:5px; margin-top:-32px; background:url(../img/controls.png) no-repeat top left; width:28px; height:65px; text-indent:-9999px;}
+        #cboxPrevious:hover{background-position:bottom left;}
+        #cboxNext{position:absolute; top:50%; right:5px; margin-top:-32px; background:url(../img/controls.png) no-repeat top right; width:28px; height:65px; text-indent:-9999px;}
+        #cboxNext:hover{background-position:bottom right;}
+        #cboxLoadingOverlay{background:#000;}
+        #cboxLoadingGraphic{background:url(../img/loading.gif) no-repeat center center;}
+        #cboxClose{position:absolute; top:-14px; right:5px; display:block; background:url(../img/controls.png) no-repeat top center; width:38px; height:19px; text-indent:-9999px;}
+        #cboxClose:hover{background-position:bottom center;}
+
+

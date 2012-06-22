@@ -98,7 +98,7 @@
 			</tr>	
 			<tr>
 				<td class="col1">Parking and Loading Docks</td>
-				<td>Never waste time looking for a parking spot. You’ll find multiple building garage access points, generous 2.5:1,000 rsf parking ratio, controlled access garage access from the sidewalk, and building loading docks to make moving materials easy and efficient. </td>
+				<td>Never waste time looking for a parking spot. You’ll find multiple building garage access points, generous 1.25:1,000rsf parking ratio, controlled access garage access from the sidewalk, and building loading docks to make moving materials easy and efficient. </td>
 			</tr>	
 			<tr>
 				<th colspan="2"><span>SAFETY</span></th>

@@ -534,10 +534,3 @@ AddCharset utf-8 .css .js .xml .json .rss .atom
 <IfModule php5_module>
   php_value session.cookie_httponly true
 </IfModule>
-
-
-AuthType Basic
-AuthName "Homeplate Demo Site"
-AuthUserFile /home/73252/.htpasswd
-AuthGroupFile /home/73252/.htgroup
-Require user eds homeplate sottenad

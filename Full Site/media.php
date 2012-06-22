@@ -18,6 +18,52 @@
 		<h2>Media &amp; Press Releases</h2>
 		
 		<div class="dd_callout clearfix">
+				<div class="clearfix">
+				<dl>
+					<dt>7 June 2012</dt>
+					<dd>
+						<em><strong>Daniels, American Life Plan a 278-room Hotel</strong></em>
+						<p><a href="http://www.djc.com/news/re/12041768.html">http://www.djc.com/news/re/12041768.html</a></p> 
+					</dd>
+				</dl>
+			</div>
+				<div class="clearfix">
+				<dl>
+					<dt>7 June 2012</dt>
+					<dd>
+						<em><strong>The Uniting Power of Beer</strong></em>
+						<p><a href="http://www.bizjournals.com/seattle/morning_call/2012/06/23-story-hotel-planned-next-to.html">http://www.bizjournals.com/seattle/morning_call/2012/06/23-story-hotel-planned-next-to.html</a></p> 
+					</dd>
+				</dl>
+			</div>
+				<div class="clearfix">
+				<dl>
+					<dt>6 June 2012</dt>
+					<dd>
+						<em><strong>23-story Hotel Planned Next to Seahawks Stadium</strong></em>
+						<p><a href="http://www.bizjournals.com/seattle/morning_call/2012/06/23-story-hotel-planned-next-to.html">http://www.bizjournals.com/seattle/morning_call/2012/06/23-story-hotel-planned-next-to.html</a></p> 
+					</dd>
+				</dl>
+			</div>
+				<div class="clearfix">
+				<dl>
+					<dt>6 June 2012</dt>
+					<dd>
+						<em><strong>American Life's Immigrant Investors to Back Latest Stadium Place project with $300M</strong></em>
+						<p><a href="http://www.bizjournals.com/seattle/blog/2012/06/american-life-to-provide-eb-5-funds.html?page=all">http://www.bizjournals.com/seattle/blog/2012/06/american-life-to-provide-eb-5-funds.html?page=all</a></p> 
+					</dd>
+				</dl>
+			</div>
+
+				<div class="clearfix">
+				<dl>
+					<dt>6 June 2012</dt>
+					<dd>
+						<em><strong>Developers Unveil Last Piece of Project Near Stadium</strong></em>
+						<p><a href="http://www.seattlepi.com/mount-rainier/article/Developers-unveil-last-piece-of-North-Lot-project-3613892.php">http://www.seattlepi.com/mount-rainier/article/Developers-unveil-last-piece-of-North-Lot-project-3613892.php</a></p> 
+					</dd>
+				</dl>
+			</div>
 			<div class="clearfix">
 				<dl>
 					<dt>19 April 2012</dt>
