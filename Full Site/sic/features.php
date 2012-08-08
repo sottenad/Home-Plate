@@ -20,8 +20,8 @@
 				<th colspan="2"><span>SPECIFICATIONS</span></th>
 			</tr>
 			<tr>
-				<td class="col1">Open and Flexible Floor Plates</td>
-				<td>47,454 rsf (typical) with extensive window line creates efficient floor plans, exceptionally designed.</td>
+				<td class="col1">Open and Flexible Floorplates</td>
+				<td>47,454 rsf (typical) with extensive window line creates efficient floorplates, exceptionally designed.</td>
 			</tr>
 			<tr>
 				<td class="col1">Define your Own Space</td>

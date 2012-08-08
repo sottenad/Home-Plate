@@ -1,5 +1,5 @@
 <?php
-	$page_title = "South Building Floorplate 5-6 Open Floor Plate :: Home Plate Seattle";
+	$page_title = "South Building Floorplate 5-6 Open Floorplate :: Home Plate Seattle";
 	$page_description = "";
 	$fb_title = "";
 	$fb_description = "";
@@ -19,7 +19,7 @@
 			<span class="fpdata first">Gross Area<strong>43,904sf</strong></span>
 			<span class="fpdata last">Download<strong><a href="pdf/south-floor-56.pdf" target="_blank" class="pdf">PDF</a></strong></span>												
 		</div>
-		<h2 class="sm">Floors 5-6&nbsp; |&nbsp; Open Floor Plate</h2>
+		<h2 class="sm">Floors 5-6&nbsp; |&nbsp; Open Floorplate</h2>
 
 		<img src="img/south-floor-56.png" alt="" />
 		

@@ -9,7 +9,7 @@
 ?>
 
 <div role="main" id="content" class="clearfix">
-	<img src="img/banners/spaces.jpg" alt="Stadium Spaces" />
+
 	<div class="mainrow">
 	<?php include('inc/sidebar-spaces.php'); ?>
 	
